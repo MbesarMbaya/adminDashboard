@@ -27,5 +27,12 @@
 							
 						</a>	
 						</li>
+						<a href="">
+							<span> <i class="fa fa-envelope"></i></span>
+							<span>Messages</span>
+							
+						</a>	
+						</li>
+						
 			</ul>
 		</nav>
